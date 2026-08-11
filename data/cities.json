@@ -1,0 +1,17 @@
+{
+  "cities": [
+    {
+      "cityName": "Sort",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-08-10T20:44:51.884Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45757806992439",
+        "lng": "1.0546875000000002"
+      },
+      "id": "kdzI9NDZ9GA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
